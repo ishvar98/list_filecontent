@@ -1,5 +1,5 @@
 #!/bin/bash
-#to use: checkfile.sh (filename.xx)
+#to use: listfilecon.sh (filename.xx)
 
 file=$1
         while read line; do 
